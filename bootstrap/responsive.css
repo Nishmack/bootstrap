@@ -1,0 +1,144 @@
+/* responsive */
+@media only screen and (max-width: 768px){
+    .header-height-1, .header-height-2 {
+        min-height: 65px;
+    }
+    }
+    @media (min-width: 576px){
+    .container, .container-sm {
+        max-width: 540px;
+    }
+    }
+    @media only screen and (max-width: 1024px){
+    .header-wrap .header-right {
+        overflow: hidden;
+    }}
+    @media only screen and (max-width: 768px){
+    .header-action-2 .header-action-icon-2 {
+        padding: 0 6px;
+    }}
+    @media only screen and (max-width: 768px){
+    .header-action-2 .header-action-icon-2>a {
+        color: #fff;
+        fill: #fff;
+        font-size: 22px;
+        margin-right: 10px;
+    }}
+    @media only screen and (max-width: 1024px){
+    .header-action-2 .header-action-icon-2:last-child {
+        padding: 0 0 0 8px;
+    }}
+    @media only screen and (max-width: 768px){
+    .header-action-2 .header-action-icon-2:last-child {
+        padding: 0 0 0 6px;
+    }}
+    @media only screen and (max-width: 768px){
+    .header-action-2 .header-action-icon-2:last-child {
+        padding: 0;
+    }}
+    @media only screen and (max-width: 768px){
+    .header-action-2 .header-action-icon-2 {
+        padding: 0 6px;
+    }}
+    @media only screen and (max-width: 768px){
+    .header-style-1 .header-bottom-bg-color {
+        box-shadow: 0 2px 5px rgba(0,0,0,.07);
+    }}
+    @media only screen and (max-width: 768px){
+    .header-bottom {
+        padding: 20px 0;
+    }}
+    @media (min-width: 576px){
+    .container, .container-sm {
+        max-width: 540px;
+    }}
+    @media only screen and (max-width: 768px){
+    .header-action-2 .header-action-icon-2 {
+        padding: 0 6px;
+    }}
+    @media only screen and (max-width: 768px){
+    .header-action-2 .header-action-icon-2>a {
+        color: #fff;
+        fill: #fff;
+        font-size: 22px;
+        margin-right: 10px;
+    }}
+    @media only screen and (max-width: 1024px){
+    .header-action-2 .header-action-icon-2:last-child {
+        padding: 0 0 0 8px;
+    }}
+    @media only screen and (max-width: 768px){
+    .header-action-2 .header-action-icon-2:last-child {
+        padding: 0 0 0 6px;
+    }}
+    @media only screen and (max-width: 768px){
+    .header-action-2 .header-action-icon-2:last-child {
+        padding: 0;
+    }}
+    @media (min-width: 576px){
+  .container, .container-sm {
+      max-width: 540px;
+  }}
+  @media screen and (max-width: 768px){
+  .hero-3 {
+      height: 90vh;
+      background-position: 40%;
+      justify-content: space-evenly
+  }
+  }
+  @media screen and (max-width: 768px){
+  .mobile_text {
+      width: 244px;
+      font-size: 24px;
+      font-weight: 400;
+      line-height: 32px;
+  }
+  }
+  @media screen and (max-width: 768px){
+  .sm\:pt-0 {
+      padding-top: 0!important;
+  }}
+  @media screen and (max-width: 768px){
+  .room_list_big {
+      margin: 0!important;
+  }}
+  @media screen and (max-width: 768px){
+  .our_room {
+      width: -webkit-fit-content;
+      width: -moz-fit-content;
+      width: fit-content;
+  }}
+  @media screen and (max-width: 768px){
+  .sm\:font-14 {
+      font-size: 14px!important;
+      line-height: 20px;
+  }}
+  @media screen and (max-width: 768px){
+  .sm\:font-14 {
+      font-size: 14px!important;
+      line-height: 20px;
+  }}
+  @media screen and (max-width: 768px){
+  .sm\:font-24 {
+      font-size: 24px!important;
+  }}
+  @media (min-width: 576px){
+  .container, .container-sm {
+      max-width: 540px;
+  }}
+  @media (min-width: 768px){
+  .container, .container-md, .container-sm {
+      max-width: 720px;
+  }}
+  @media (min-width: 576px){
+  .container, .container-sm {
+      max-width: 540px;
+  }}
+  @media (min-width: 768px){
+  .container, .container-md, .container-sm {
+      max-width: 720px;
+  }}
+  @media (min-width: 576px){
+  .container, .container-sm {
+      max-width: 540px;
+  }}
